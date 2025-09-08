@@ -21,7 +21,7 @@
 
 - <b>Game via propositional calculus with JavaFX</b>
   - [Return42](https://github.com/HSD-Return42/Return42)
-- <b>Racing game, developed using the Godot-engine</b>
+- <!--<b>Racing game, developed using the Godot-engine</b>-->
   
   
 <!--
