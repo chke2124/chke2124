@@ -5,22 +5,17 @@
 <h2>My Skills</h2>
 
 <h3>Advanced:</h3>
-<p>Java</p>
-<p>C#</p>
-
+  <img align="left" alt="Java" width=30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img align="left" alt="Java" width=30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+  <br>
 <h3>Basic understanding</h3>
-<p>Dart</p>
-<p>python</p>
-<p>JavaScript</p>
-
-<p>Flutter</p>
-
-<p>Unity</p>
-<p>Godot-Engine</p>
-
-<h3>still learning</h3>
-<p>Java FX</p>
-<p></p>
+   <img align="left" alt="Java" width=30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
+   <img align="left" alt="Python" width=30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+   <img align="left" alt="JsScript" width=30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
+   <img align="left" alt="Flutter" width=30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
+   <img align="left" alt="Unity" width=30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg"/>
+   <img align="left" alt="Godot" width=30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg"/>
+<br>
 
 <h2>Software Developement Projects</h2>
 
